@@ -74,11 +74,7 @@ namespace FirstConsoleApp
                 }
 
                 Console.WriteLine(number);
-
             }
-
-
-         
         }
 
         void switchExample()

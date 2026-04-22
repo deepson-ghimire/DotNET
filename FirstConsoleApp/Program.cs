@@ -61,9 +61,11 @@ namespace FirstConsoleApp
             //var statementExp = new StatementExample();
             //statementExp.run();
 
-            var conditionState = new ConditionalStatement();
-            conditionState.run();
-               
+            //var conditionState = new ConditionalStatement();
+            //conditionState.run();
+
+            var arrayExample = new ArrayExample();
+            arrayExample.run();
 
             Console.ReadKey();
 
