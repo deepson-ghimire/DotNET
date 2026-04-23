@@ -65,7 +65,22 @@ namespace FirstConsoleApp
             //conditionState.run();
 
             var arrayExample = new ArrayExample();
-            arrayExample.run();
+            //arrayExample.run();
+
+            var teacher = new CollegeManagement.Teacher();
+            //teacher.run();
+
+            var user = new CollegeManagement.User();
+            //user.run();
+
+            var sTeacher = new SchoolManagement.Teacher();
+            //sTeacher.run();
+
+            var sUser = new SchoolManagement.User();
+            //sUser.run();
+
+            var userinfo = new FitnessTracker.User.UserInfo();
+            userinfo.showProfile("ramey",30);
 
             Console.ReadKey();
 
