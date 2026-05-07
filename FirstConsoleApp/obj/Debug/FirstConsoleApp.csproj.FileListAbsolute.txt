@@ -5,3 +5,10 @@ C:\Users\deeps\OneDrive\Desktop\C#\FirstConsoleApp\FirstConsoleApp\bin\Debug\Fir
 C:\Users\deeps\OneDrive\Desktop\C#\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
 C:\Users\deeps\OneDrive\Desktop\C#\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
 C:\Users\deeps\OneDrive\Desktop\C#\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
+C:\C#\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.AssemblyReference.cache
+C:\C#\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\C#\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\C#\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb
+C:\C#\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\C#\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\C#\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb

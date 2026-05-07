@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\",
+  "WorkspaceRootPath": "C:\\C#\\FirstConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\deeps\\onedrive\\desktop\\c#\\firstconsoleapp\\firstconsoleapp\\fitnesstracker\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\fitnesstracker\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\deeps\\onedrive\\desktop\\c#\\firstconsoleapp\\firstconsoleapp\\fitnesstracker\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\fitnesstracker\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\deeps\\onedrive\\desktop\\c#\\firstconsoleapp\\firstconsoleapp\\schoolmanagement\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\schoolmanagement\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\deeps\\onedrive\\desktop\\c#\\firstconsoleapp\\firstconsoleapp\\collegemanagement\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\collegemanagement\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\deeps\\onedrive\\desktop\\c#\\firstconsoleapp\\firstconsoleapp\\collegemanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\collegemanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\deeps\\onedrive\\desktop\\c#\\firstconsoleapp\\firstconsoleapp\\schoolmanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\schoolmanagement\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|C:\\C#\\FirstConsoleApp\\firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\users\\deeps\\onedrive\\desktop\\c#\\firstconsoleapp\\firstconsoleapp\\arrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\arrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|c:\\c#\\firstconsoleapp\\firstconsoleapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E45A8B9-E55D-4CD0-953B-C855CA579774}|FirstConsoleApp\\FirstConsoleApp.csproj|solutionrelative:firstconsoleapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,108 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserInfo.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\FitnessTracker\\UserInfo.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\FitnessTracker\\UserInfo.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\FitnessTracker\\UserInfo.cs",
-              "RelativeToolTip": "FirstConsoleApp\\FitnessTracker\\UserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:27:09.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WorkoutPlan.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\FitnessTracker\\WorkoutPlan.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\FitnessTracker\\WorkoutPlan.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\FitnessTracker\\WorkoutPlan.cs",
-              "RelativeToolTip": "FirstConsoleApp\\FitnessTracker\\WorkoutPlan.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\C#\\FirstConsoleApp\\FirstConsoleApp\\Product.cs",
+              "RelativeDocumentMoniker": "FirstConsoleApp\\Product.cs",
+              "ToolTip": "C:\\C#\\FirstConsoleApp\\FirstConsoleApp\\Product.cs",
+              "RelativeToolTip": "FirstConsoleApp\\Product.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowCkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:22:45.064Z",
+              "WhenOpened": "2026-04-26T05:42:42.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\SchoolManagement\\Teacher.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\SchoolManagement\\Teacher.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\SchoolManagement\\Teacher.cs",
-              "RelativeToolTip": "FirstConsoleApp\\SchoolManagement\\Teacher.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:10:15.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\CollegeManagement\\Teacher.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\CollegeManagement\\Teacher.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\CollegeManagement\\Teacher.cs",
-              "RelativeToolTip": "FirstConsoleApp\\CollegeManagement\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:09:41.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\SchoolManagement\\User.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\SchoolManagement\\User.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\SchoolManagement\\User.cs",
-              "RelativeToolTip": "FirstConsoleApp\\SchoolManagement\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:09:07.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\CollegeManagement\\User.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\CollegeManagement\\User.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\CollegeManagement\\User.cs",
-              "RelativeToolTip": "FirstConsoleApp\\CollegeManagement\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:08:48.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ArrayExample.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\ArrayExample.cs",
-              "RelativeDocumentMoniker": "FirstConsoleApp\\ArrayExample.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\ArrayExample.cs",
-              "RelativeToolTip": "FirstConsoleApp\\ArrayExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T05:06:41.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\C#\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "FirstConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\deeps\\OneDrive\\Desktop\\C#\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
+              "ToolTip": "C:\\C#\\FirstConsoleApp\\FirstConsoleApp\\Program.cs",
               "RelativeToolTip": "FirstConsoleApp\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwE8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T10:03:11.286Z",
               "EditorCaption": ""

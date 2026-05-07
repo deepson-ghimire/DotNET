@@ -79,13 +79,19 @@ namespace FirstConsoleApp
             var sUser = new SchoolManagement.User();
             //sUser.run();
 
-            var userinfo = new FitnessTracker.User.UserInfo();
-            userinfo.showProfile("ramey",30);
+            var Wp = new FitnessTracker.Workout.WorkoutPlan();
+            //Wp.LogWorkout("pull up");
 
+            var userinfo = new FitnessTracker.User.UserInfo();
+            //userinfo.showProfile("ramey",30);
+
+            //var studentModel = new Student.Model.StudentModel(101, "Ramey" , 20);
+
+            Product.InputFromUser();
             Console.ReadKey();
 
             
-
+oj
 
         }
     }

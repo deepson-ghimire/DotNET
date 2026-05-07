@@ -9,9 +9,10 @@ namespace FitnessTracker.Workout
     internal class WorkoutPlan
     {
 
-        public void LogWorkout()
+        public void LogWorkout(string exercise)
         {
-            Console.WriteLine("Exercise Logged");
+            
+            Console.WriteLine($"Exercise Logged: {exercise}");
         }
     }
 }

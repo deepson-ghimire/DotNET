@@ -10,7 +10,7 @@ namespace FitnessTracker.User
     {
         public  void showProfile(string name, int age)
         {
-            Console.WriteLine($"Name is {name}. Age is {age}")
+            Console.WriteLine($"Name is {name}. Age is {age}");
         }
     }
 }
