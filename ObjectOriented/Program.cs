@@ -27,7 +27,19 @@ namespace ObjectOriented
             //indexExamp.run();
 
             var staticExamp = new StaticExample();
-            staticExamp.run();
+            //staticExamp.run();
+
+            var inheritanceExmap = new InheritanceExample();
+            //inheritanceExmap.run();
+
+            var overloading = new OverloadingExample();
+            //overloading.run();
+
+            var overriding = new OverridingExample();
+            //overriding.run();
+
+            var abstractExamp = new AbstractExample();
+            abstractExamp.run();
 
 
 
