@@ -44,7 +44,7 @@ namespace ObjectOriented
         }
     }
 
-    }
+}
 
     // Write a program with a class BillCalculator that overloasds the calculateBIll method in three ways
     // Calculate bill for one item(price)
@@ -70,4 +70,3 @@ namespace ObjectOriented
             Console.WriteLine(discountAmt);
         }
     }
-}

@@ -38,8 +38,11 @@ namespace ObjectOriented
             var overriding = new OverridingExample();
             //overriding.run();
 
-            var abstractExamp = new AbstractExample();
-            abstractExamp.run();
+            //var abstractExamp = new AbstractExample();
+            //abstractExamp.run();
+
+            var interfaceExamp = new InterfaceExample();
+            interfaceExamp.run();
 
 
 

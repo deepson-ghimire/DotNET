@@ -49,6 +49,7 @@
     <Compile Include="ConstructorExample.cs" />
     <Compile Include="IndexerExample.cs" />
     <Compile Include="InheritanceExample.cs" />
+    <Compile Include="InterfaceExample.cs" />
     <Compile Include="OverloadingExample.cs" />
     <Compile Include="OverridingExample.cs" />
     <Compile Include="Program.cs" />
